@@ -14,12 +14,3 @@ Don't worry too much about the format -- Syllabus can revise your wording
 
 Max 250 words. Syllabus can revise this, so it's fine to just get a first draft down.
 
-#### Discovery&#x20;
-
-#### Personas&#x20;
-
-#### User Stories&#x20;
-
-#### Stories and Epics&#x20;
-
-#### Specification By Example
