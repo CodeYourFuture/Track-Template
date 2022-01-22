@@ -18,10 +18,4 @@ Don't worry too much about the format -- Syllabus can revise your wording
 
 Max 250 words. Syllabus can revise this, so it's fine to just get a first draft down.
 
-#### The Agile Mindset
-
-#### MVP
-
-#### The Smallest Step
-
-#### Design Thinking
+####
